@@ -4,7 +4,7 @@
 <body style="background-color:powderblue;">
 <h2 style="font-size:10px;">My Hobbies, My Likes, Dislikes and Albums</h2>
 
-<img src="emman_face.jpg" alt="Selfie picture of a man" style="width:250px;height:250;">
+<img src="img_selfiepic.jpg" alt="Selfie picture of a man" style="width:250px;height:250;">
 
 <hr>
  <h2 style="tect-align: center; border: 2px Solid DarkBlue">Information about me</h2>
